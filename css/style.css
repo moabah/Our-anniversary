@@ -206,7 +206,7 @@ button:focus{
 
 .pulse h3{
 	color: #ffffff;
-	font-family: 'Engagement';
+	font-family: 'Engagement', cursive;
 	font-size: 38px;
 }
 
@@ -420,7 +420,6 @@ button:focus{
 }
 
 .lbox-details::before{
-	
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -431,7 +430,7 @@ button:focus{
 
 .lbox-details h1{
 	font-size: 54px;
-	font-family: 'Engagement';
+	font-family: 'Engagement', cursive;
 	color: #ffffff;
 	position: relative;
 	z-index: 3;
@@ -501,10 +500,6 @@ button:focus{
 }
 
 
-.about-box{
-	padding: 70px 0px;
-	background: url(../images/ptn-bg.jpg);
-}
 
 .title-box{
 	text-align: center;
@@ -675,10 +670,7 @@ button:focus{
     Family
 -------------------------------------------------------------------*/
 
-.family-box{
-	padding: 70px 0px;
-	background: url(../images/ptn-bg.jpg);
-}
+
 
 .single-team-member {
     position: relative;
@@ -817,10 +809,7 @@ button:focus{
     Wedding
 -------------------------------------------------------------------*/
 
-.wedding-box{
-	padding: 70px 0px;
-	background: url(../images/ptn-bg.jpg);
-}
+
 
 .serviceBox{
     padding: 25px 30px;
