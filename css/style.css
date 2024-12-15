@@ -206,7 +206,7 @@ button:focus{
 
 .pulse h3{
 	color: #ffffff;
-	font-family: 'Engagement', cursive;
+	font-family: 'Engagement';
 	font-size: 38px;
 }
 
@@ -416,11 +416,11 @@ button:focus{
 	right: 0;
 	height: 100%;
 	padding: 11% 0%;
+	background:  #881228;
 }
 
 .lbox-details::before{
-	content: "";
-	background: rgba(0,0,0,0.5);
+	
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -431,7 +431,7 @@ button:focus{
 
 .lbox-details h1{
 	font-size: 54px;
-	font-family: 'Engagement', cursive;
+	font-family: 'Engagement';
 	color: #ffffff;
 	position: relative;
 	z-index: 3;
